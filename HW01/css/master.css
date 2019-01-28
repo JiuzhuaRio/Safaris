@@ -1,0 +1,10 @@
+.HeaderPic{
+  position:absolute;
+  top: 0px;
+  width: 100%;
+  background-color: white;
+  background-image: url(../img/title.png);
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
