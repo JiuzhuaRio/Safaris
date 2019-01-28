@@ -5,6 +5,6 @@
   background-color: white;
   background-image: url(../img/title.png);
   background-position: right;
-  background-size: contain;
+  background-size:cover;
   background-repeat: no-repeat;
 }
