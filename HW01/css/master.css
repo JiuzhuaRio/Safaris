@@ -1,5 +1,6 @@
-.HeaderPic{
-  position:absolute;
-  top: 0px;
-  width: 100%;
+.headerpicture{
+  margin: 0;
+  height:20vh;
+  width: 100vw;
+  position: absolute;
 }
