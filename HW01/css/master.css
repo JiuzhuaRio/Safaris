@@ -2,9 +2,9 @@
   position:absolute;
   top: 0px;
   width: 100%;
-  background-color: white;
-  background-image: url(../img/title.jpg);
-  background-position: right;
-  background-size:cover;
-  background-repeat: no-repeat;
+}
+.headerpicture{
+  margin: 0;
+  width: 100%;
+  position: absolute;
 }
