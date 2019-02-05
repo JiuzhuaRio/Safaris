@@ -19,6 +19,10 @@ padding-bottom: 10%;
   position: relative;
   text-align: justify;
 }
+.APP{
+  position: relative;
+  width: 80vw;
+}
 h1{
   font-size: 40px;
   font-weight:800;
