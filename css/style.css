@@ -19,6 +19,11 @@ padding-bottom: 10%;
   position: relative;
   text-align: justify;
 }
+.HomeWork{
+  position: relative;
+  left: 20vw;
+  top: 20vh;
+}
 h1{
   font-size: 40px;
   font-weight:800;
