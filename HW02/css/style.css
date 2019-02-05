@@ -19,6 +19,16 @@ padding-bottom: 10%;
   position: relative;
   text-align: justify;
 }
+.pandapic{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.Panda{
+  width: 40vw;
+  height: 45vh;
+
+}
 .APP{
   position: relative;
   width: 80vw;
