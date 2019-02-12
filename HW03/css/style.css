@@ -9,9 +9,10 @@ body{
   width: 100vw;
 }
 .textBox{
-padding-left: 10%;
-padding-right: 10%;
-padding-top: 6%;
+padding-left: 30%;
+/* padding-right: 10%; */
+width: 60%;
+padding-top: 5%;
 padding-bottom: 10%;
   position: relative;
 }
@@ -20,19 +21,25 @@ padding-bottom: 10%;
   text-align: justify;
 }
 .pptpic{
-  display:flex;
+  display:flow-root;
   flex-wrap: wrap;
   flex-direction: row;
+  height: auto;
 }
 .ppt{
-  height: 45vh;
-
+  width: 100%;
+  height:auto;
 }
 
-}
 .APP{
   position:relative;
-  height:60vh;
+  width: 100%;
+  height: auto;
+}
+.half
+{
+  width: 100%;
+  height: auto;
 }
 h1{
   font-size: 60px;
