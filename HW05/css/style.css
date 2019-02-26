@@ -36,6 +36,17 @@ padding-bottom: 10%;
   width: 100%;
   height: auto;
 }
+.pandapic{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.Panda{
+
+  width: 25vw;
+  height: 100%;
+  padding: 5px;
+}
 .half
 {
   width: 100%;
@@ -72,4 +83,7 @@ text-decoration: none;
 }
 a:active {
 text-decoration: none;
+}
+.smalltitle{
+font-weight: bold;
 }
