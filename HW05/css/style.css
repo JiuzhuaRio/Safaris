@@ -41,9 +41,21 @@ padding-bottom: 10%;
   flex-wrap: wrap;
   flex-direction: row;
 }
+.pandapic2{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
 .Panda{
 
   width: 25vw;
+  height: 100%;
+  padding: 5px;
+}
+.Panda2{
+
+  width: 28vw;
   height: 100%;
   padding: 5px;
 }
